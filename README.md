@@ -1,42 +1,42 @@
-# ?? Dateiro - Datalogger e visualización (ESP32-C3)
+# Dateiro - Datalogger e visualización (ESP32-C3)
 
 > [!NOTE]
 > Documentacion en galego
 
-**Dateiro** e un sistema de adquisicion, visualizacion e rexistro de datos (datalogger) deseñado arredor do microcontrolador **ESP32-C3 SuperMini**. 
+**Dateiro** e un sistema de adquisicion, visualizacion e rexistro de datos (datalogger) deseñado arredor do microcontrolador **ESP32-C3 SuperMini**.
 O dispositivo permite a medicion de voltaxe diferencial, corrente e voltaxe de bus, mostrando un grafico en tempo real (modo osciloscopio) nunha pantalla e almacenando os datos en ficheiros `.CSV`
 dentro duna tarxeta MicroSD.
 
 ---
 
-## ?? Caracteristicas do Firmware
+## Caracteristicas do Firmware
 
-### 1. ?? Gráfica en Tempo Real
+### 1. Gráfica en Tempo Real
 - **Buffer Circular:** Mantén un historico de 128 puntos para debuxar a onda na pantalla OLED a intervalos de 50ms (refresh de 20 Hz).
 - **Escalado e Grade:** Debuxo de grade de puntos para escala visual e axuste automatico de rango (hasta 16V en modo diferencial e ata 1000mA en modo INA219).
 
-### 2. ?? Datalogger Automático (Ficheiros CSV)
+### 2. Datalogger Automático (Ficheiros CSV)
 - **Nomenclatura Automática:** Crea ficheiros secuenciais no directorio raiz da tarxeta SD (`/DAT_001.CSV`, `/DAT_002.CSV`, etc.).
 - **Modos de Mostraxe:**
   - **Por Intervalo:** Define o tempo entre mostras en segundos (ex: cada 5s).
   - **Por Cantidade de Puntos:** Distribue un numero fixo de puntos ao longo do tempo total configurado.
 - **Formato do CSV:** Encabezado dinamico dependendo da orixe de datos (`Tempo_ms,Diferencial_V` ou `Tempo_ms,Corrente_mA`).
 
-### 3. ??? Navegación
+### 3. Navegación
 - Interface baseada nun **Encoder Rotatorio** con descodificacion por matriz de estados (anti-rebotes por interruptor de hardware/software).
 - **Xestion de Clicks:**
   - **Click Curto (>50ms):** Confirmar / Avanzar menu.
   - **Click Longo (>600ms):** Voltar / Cancelar / Deter gravacion.
   - **Dobre Click (<400ms):** Menu de apagado rapido.
 
-### 4. ?? Xestión de Enerxía e Deep Sleep
+### 4. Xestión de Enerxía e Deep Sleep
 - **Lendo Batería:** Indicador de bateria con icono grafico na barra superior calculando o nivel mediante o pin `MVBAT` e detectando se esta en carga polo pin `STAT`.
 - **Modo Apagado (Deep Sleep):** Apaga a pantalla OLED mediante comandos I2C (`0xAE`) e pon o ESP32-C3 en modo de soño profundo, incluida a OLED.
 - **Despertado por Hardware:** Configura o pin do encoder (`PIN_ENC_B` / GPIO5) para espertar o sistema ao xirar o mando.
 
 ---
 
-## ?? Asignación de Pins (ESP32-C3 SuperMini)
+## Asignación de Pins (ESP32-C3 SuperMini)
 
 | GPIO | Rede / Sinal | Descricion |
 | :---: | :--- | :--- |
@@ -56,7 +56,7 @@ dentro duna tarxeta MicroSD.
 
 ---
 
-## ?? Librarías Requiridas
+## Librarías Requiridas
 
 Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as seguintes librarías:
 
@@ -68,7 +68,7 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 
 ---
 
-## ?? Bill of Materials (BOM)
+## Bill of Materials (BOM)
 
 | Qty | Value / Component | Footprint / Package | Designator | Description |
 | :---: | :--- | :--- | :--- | :--- |
