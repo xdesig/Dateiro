@@ -101,5 +101,7 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 ---
 Deseñado en Extrimia con agarimo.
 
+Open Hardware Certification: ES0000??
+
 Saudos.
 2026
