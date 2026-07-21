@@ -23,6 +23,8 @@ dentro duna tarxeta MicroSD.
   - **Por Cantidade de Puntos:** Distribue un numero fixo de puntos ao longo do tempo total configurado.
 - **Formato do CSV:** Encabezado dinamico dependendo da orixe de datos (`Tempo_ms,Diferencial_V` ou `Tempo_ms,Corrente_mA`).
 
+<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_Capt3.png" width="300" align="right">
+
 ### 3. Navegación
 - Interface baseada nun **Encoder Rotatorio** con descodificacion por matriz de estados (anti-rebotes por interruptor de hardware/software).
 - **Xestion de Clicks:**
@@ -34,6 +36,8 @@ dentro duna tarxeta MicroSD.
 - **Lendo Batería:** Indicador de bateria con icono grafico na barra superior calculando o nivel mediante o pin `MVBAT` e detectando se esta en carga polo pin `STAT`.
 - **Modo Apagado (Deep Sleep):** Apaga a pantalla OLED mediante comandos I2C (`0xAE`) e pon o ESP32-C3 en modo de soño profundo, incluida a OLED.
 - **Despertado por Hardware:** Configura o pin do encoder (`PIN_ENC_B` / GPIO5) para espertar o sistema ao xirar o mando.
+
+<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_c_Caixa_3D.png" width="300" align="right">
 
 ---
 
