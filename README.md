@@ -1,4 +1,4 @@
-# Dateiro - Datalogger e visualización (ESP32-C3)
+# Dateiro - Datalogger e visualización
 <img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_Capt2.png" width="400" align="right">
 
 > [!NOTE]
