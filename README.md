@@ -3,7 +3,7 @@
 
 > [!NOTE]
 > Documentation in Galego 
-- [traductor] (https://tradutorgaio.xunta.gal/TradutorPublico/traducir/index)
+- [traductor](https://tradutorgaio.xunta.gal/TradutorPublico/traducir/index)
 
 **Dateiro** e un sistema de adquisicion, visualizacion e rexistro de datos (datalogger) deseñado arredor do microcontrolador **ESP32-C3 SuperMini**.
 O dispositivo permite a medicion de voltaxe diferencial, corrente e voltaxe de bus, mostrando un grafico en tempo real (modo osciloscopio) nunha pantalla e almacenando os datos en ficheiros `.CSV`
