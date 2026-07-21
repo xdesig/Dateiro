@@ -64,9 +64,9 @@ dentro duna tarxeta MicroSD.
 
 ## Librarías Requiridas
 
-Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as seguintes librarías:
-
 <img src="https://github.com/xdesig/Dateiro/blob/main/Caixa_3D/Dateiro_c_Caixa_3D.png" width="300" align="right">
+
+Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as seguintes librarías:
 
 - `Wire.h` e `SPI.h` (Incluídas no core de ESP32)
 - `SD.h` (Incluída no core de ESP32)
