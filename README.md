@@ -60,11 +60,13 @@ dentro duna tarxeta MicroSD.
 
 ---
 
-<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_c_Caixa_3D.png" width="300" align="right">
+
 
 ## Librarías Requiridas
 
 Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as seguintes librarías:
+
+<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_c_Caixa_3D.png" width="300" align="right">
 
 - `Wire.h` e `SPI.h` (Incluídas no core de ESP32)
 - `SD.h` (Incluída no core de ESP32)
