@@ -1,4 +1,5 @@
 # Dateiro - Datalogger e visualización (ESP32-C3)
+<img src="https://github.com/xdesig/Dateiro/tree/main/Imaxes" width="300" align="right">
 
 > [!NOTE]
 > Documentacion en galego
