@@ -1,0 +1,78 @@
+Licenza de Hardware Libre do CERN Versión 2 - Fortemente Recíproca
+https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/819d71bea3458f71fba6cf4fb0f2de6b/cern_ohl_s_v2.txt
+
+
+Preámbulo
+O CERN desenvolveu esta licenza para promover a colaboración entre deseñadores de hardware e proporcionar unha ferramenta legal que apoie a liberdade de usar, estudar, modificar, compartir e distribuír deseños de hardware e produtos baseados neses deseños. A versión 2 da Licenza de Hardware Libre do CERN ten tres variantes: CERN-OHL-P (permisiva); e dúas licenzas recíprocas: CERN-OHL-W (débilmente recíproca) e esta licenza, CERN-OHL-S (fortemente recíproca).
+
+A CERN-OHL-S está baixo copyright do CERN 2020. Calquera persoa pode usala, unicamente na súa forma non modificada.
+
+O uso desta licenza non implica ningún tipo de aprobación por parte do CERN de ningún Licenciante nin dos seus deseños, nin implica ningunha implicación do CERN no seu desenvolvemento.
+
+1. Definicións
+1.1 Licenza: refírese a esta CERN-OHL-S.
+1.2 Licenza Compatible:
+a) calquera versión anterior da Licenza de Hardware Libre do CERN,
+b) calquera versión da CERN-OHL-S,
+c) calquera licenza que che permita tratar a Fonte á que se aplica como licenciada baixo a CERN-OHL-S, sempre que ao transmitir esa Fonte ou Produto asociado, trates a Fonte como licenciada baixo a CERN-OHL-S.
+1.3 Fonte: información como materiais de deseño ou código dixital que pode empregarse para fabricar ou probar un Produto ou preparalo para o seu uso, transmisión ou venda. Pode incluír Avisos.
+1.4 Fonte Cuberta: Fonte posta a disposición explicitamente baixo esta Licenza.
+1.5 Produto: calquera dispositivo, compoñente, obra ou obxecto físico, xa sexa acabado ou intermedio, derivado do uso, aplicación ou procesamento da Fonte Cuberta.
+1.6 Fabricar (Make): crear ou configurar algo, por exemplo mediante fabricación, montaxe, compilación, carga ou aplicación da Fonte Cuberta ou doutro Produto.
+1.7 Compoñente Dispoñible: parte ou subensamblaxe que:
+a) está licenciada como Fonte Completa baixo unha Licenza Compatible, ou
+b) está dispoñible no momento da primeira transmisión a ti e a outros potenciais licenciatarios:
+i) como unha parte física con dereitos e información suficientes para fabricala ou adquirila, ou
+ii) como parte da distribución normal dunha ferramenta de deseño ou fabricación do Produto.
+1.8 Fonte Completa: conxunto de toda a Fonte necesaria para fabricar un Produto, na forma preferida para facer modificacións, incluíndo instalación e información de interface necesarias, tanto para o Produto como para calquera Compoñente Dispoñible incluído. Se o formato é propietario, tamén debe estar dispoñible nun formato lexible cunha ferramenta libre.
+1.9 Localización da Fonte: lugar onde o Licenciante coloca a Fonte Cuberta, que razoablemente se espera que sexa accesible dixitalmente durante polo menos tres anos.
+1.10 Aviso: notas de copyright, recoñecementos, marcas, referencias á Localización da Fonte, notas de modificación e calquera mención a esta Licenza ou á renuncia de garantías incluídas na Fonte Cuberta.
+1.11 Licenciatario / Ti: persoa que exerce os dereitos baixo esta Licenza.
+1.12 Licenciante: persoa física ou xurídica que crea ou modifica a Fonte Cuberta.
+1.13 Transmitir (Convey): comunicar ao público ou distribuír.
+
+2. Aplicabilidade
+2.1 Esta licenza rexe o uso, copia, modificación, transmisión da Fonte Cuberta e dos Produtos, e a fabricación de Produtos. O uso de calquera dereito implica a aceptación irrevogable destes termos.
+2.2 Esta licenza é outorgada directamente polo Licenciante a ti, sen limitación territorial nin temporal.
+2.3 Non podes restrinxir por contrato ou doutro xeito os dereitos concedidos a outros baixo esta licenza.
+2.4 Esta licenza non pretende restrinxir o uso lexítimo nin dereitos similares.
+
+3. Copia, modificación e transmisión da Fonte Cuberta
+3.1 Podes copiar e transmitir copias literais da Fonte Cuberta en calquera soporte, sempre que conserves todos os Avisos.
+3.2 Podes modificar a Fonte Cuberta (excepto os Avisos), sempre que te comprometas irrevogablemente a facer dispoñible a Fonte modificada desde unha Localización da Fonte, se transmites un Produto sen entregar unha copia desa Fonte modificada.
+3.3 Se transmites a Fonte Cuberta modificada:
+a) conserva os Avisos orixinais,
+b) engade un Aviso indicando que a modificaches, con data e descrición breve,
+c) engade unha Localización da Fonte modificada, se non a entregas directamente,
+d) licencia esa Fonte modificada baixo esta Licenza (ou versión posterior, se é permitido). Os Compoñentes Dispoñibles permanecen baixo as súas propias licenzas.
+
+4. Fabricación e Transmisión de Produtos
+Podes fabricar e/ou transmitir Produtos, sempre que:
+
+entregues a cada destinatario unha copia da Fonte Completa, ou
+
+informes claramente sobre a Localización da Fonte Completa.
+
+Se un Aviso o require, o Produto debe mostrar de forma visible e segura esa Localización na súa carcasa, embalaxe ou documentación.
+
+5. Investigación e Desenvolvemento
+Podes transmitir Fonte Cuberta ou Produtos a unha entidade legal que desenvolva, probe ou realice control de calidade para ti, sempre que:
+
+non os use para os seus fins internos,
+
+non os transmita a terceiros,
+
+e as modificacións feitas por ela se consideren feitas por ti.
+
+6. Renuncia e Responsabilidade
+6.1 Renuncia de Garantía: A Fonte Cuberta e os Produtos ofrécense "tal cal", sen garantías expresas nin implícitas. O risco é teu.
+6.2 Exclusión de Responsabilidade: O Licenciante non será responsable de ningún tipo de dano (directo ou indirecto), incluídos perdas de datos, beneficios ou interrupcións comerciais. O usuario debe manter indemne ao Licenciante ante calquera reclamación derivada do uso.
+
+7. Patentes
+7.1 Cada Licenciante outorga unha licenza de patente non exclusiva, mundial, perpetua e libre de dereitos para fabricar, usar, vender, importar ou transferir a Fonte Cuberta e os Produtos, só no que respecta a patentes que se infrinxan necesariamente ao exercer os dereitos concedidos.
+7.2 Se ti inicias litixio de patentes contra alguén (por infracción ou invalidez), os teus dereitos baixo esta licenza quedarán automaticamente anulados.
+
+8. Disposicións Xerais
+8.1 Se algunha cláusula resulta inválida, as demais seguirán en vigor.
+8.2 Non podes usar o nome, acrónimos, imaxe ou logotipo do Licenciante ou do CERN, salvo cando sexa necesario para cumprir co punto 3 ou permitido pola lei.
+8.3 O CERN pode publicar novas versións ou variantes desta licenza. Se a Fonte Cuberta indica só a variante (e non a versión), podes considerala licenciada baixo calquera versión desa variante. Se non se indica variante, aplicarase CERN-OHL-S por defecto
