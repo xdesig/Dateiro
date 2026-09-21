@@ -79,8 +79,6 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 ---
 
 
-
-
 ## Bill of Materials (BOM)
 
 | Qty | Value / Component | Footprint / Package | Designator | Description |
@@ -100,11 +98,8 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 | **1** | 32.768kHz | Crystal D2.0mm L6.0mm | `Y1` | Cristal Oscilador RTC |
 
 ---
-Deseñado en Extrimia con agarimo.
-
-Open Hardware Certification: ES000059
+- Deseñado en Extrimia con agarimo.
 
 <img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="200" align="right">
 
-Saudos.
-- 2026
+- Saudos.
