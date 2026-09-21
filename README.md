@@ -107,4 +107,4 @@ Open Hardware Certification: ES000059
 <img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="200" align="right">
 
 Saudos.
-2026
+- 2026
