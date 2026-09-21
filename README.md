@@ -100,6 +100,6 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 ---
 - Deseñado en Extrimia con agarimo.
 
-<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="200" align="right">
+<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="200" align="left">
 
 - Saudos.
