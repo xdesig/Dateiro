@@ -18,6 +18,7 @@ dentro duna tarxeta MicroSD.
 - **Escalado e Grade:** Debuxo de grade de puntos para escala visual e axuste automatico de rango (hasta 16V en modo diferencial e ata 1000mA en modo INA219).
 
 <img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/Dateiro_Capt3.png" width="300" align="right">
+
 ### 2. Datalogger Automático (Ficheiros CSV)
 - **Nomenclatura Automática:** Crea ficheiros secuenciais no directorio raiz da tarxeta SD (`/DAT_001.CSV`, `/DAT_002.CSV`, etc.).
 - **Modos de Mostraxe:**
@@ -101,7 +102,7 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 ---
 Deseñado en Extrimia con agarimo.
 
-Open Hardware Certification: ES0000??
+Open Hardware Certification: ES000059
 
 Saudos.
 2026
