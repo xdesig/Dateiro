@@ -103,6 +103,6 @@ Para compilar este proxecto na IDE de Arduino ou PlatformIO, precísanse as segui
 Deseñado en Extrimia con agarimo.
 
 Open Hardware Certification: ES000059
-<img src="https://github.com/xdesig/Dateiro/blob/main/Caixa_3D/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="274" align="right">
+<img src="https://github.com/xdesig/Dateiro/blob/main/Imaxes/c41a684a-7307-47da-a52c-c856d51c1bed.svg" width="274" align="right">
 Saudos.
 2026
